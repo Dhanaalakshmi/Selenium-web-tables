@@ -1,4 +1,4 @@
-# Selenium-web-tables# Selenium web tables
+# Selenium web tables
 # Name: DHANA LAKSHMI A
 # Reg no : 212223040033
 # Code 
